@@ -1,18 +1,18 @@
 var React  = require('react/addons')
+var Svg_up = require('../reusable-modules/svg_upload.jsx')
 	
 class Home extends React.Component{
 	constructor() {
 		super()
-		document.title = "Agey"
+		document.title = "India-Stories"
 	}
 
 	render() {
 		return (
 			<div>
-				<h1>  Hello, World!  </h1>
-				<h2>  Hello, World! </h2>
-				<h3>  Hello, World! </h3>
-				<h4>  Hello, World! </h4>
+				<section className="splash">
+					<div className="splash-wrapper"></div>
+				</section>
 			</div>
 		)
 	}
