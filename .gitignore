@@ -10,4 +10,4 @@ public/*.css
 public/*/*.js
 public/*/*.css
 
-*.DS_Store 
+.DS_Store 
