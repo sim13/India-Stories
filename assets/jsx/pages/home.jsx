@@ -10,8 +10,12 @@ class Home extends React.Component{
 	render() {
 		return (
 			<div>
-				<section className="splash">
-					<div className="splash-wrapper"></div>
+				<section className="splash-wrapper">
+					<div className="splash-bg"></div>
+					<div className="logo"></div>
+				</section>
+				<section className="about-us">
+				 	<h2> OUR STORY </h2>
 				</section>
 			</div>
 		)
