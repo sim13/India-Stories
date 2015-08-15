@@ -4,7 +4,7 @@ var Svg_up = require('../reusable-modules/svg_upload.jsx')
 class Home extends React.Component{
 	constructor() {
 		super()
-		document.title = "India-Stories"
+		document.title = "IndiaStories"
 	}
 
 	render() {
