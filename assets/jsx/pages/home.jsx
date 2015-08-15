@@ -27,7 +27,9 @@ class Home extends React.Component{
 						<Svg_up svg="Brain" className="section-1"/>
 						<div className=" brain-text section-1" >
 							<h2>Systemic Thinking</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam </p>
+							<p>All learnings will be institutionalized. 
+								Orientation towards long term value v/s short term profit.
+								Continuous Disruptive innovation.</p>
 						</div>
 
 					</div>
@@ -35,7 +37,9 @@ class Home extends React.Component{
 						<Svg_up svg="Personal-Mastery" className="section-1"/>
 						<div className="brain-text section-1">
 							<h2>Personal Mastery</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam </p>
+							<p>Core Competence. 
+								Creative tension – aspiring to reach ideals. 
+								Openness and adaptability</p>
 						</div>
 
 					</div>
@@ -43,7 +47,9 @@ class Home extends React.Component{
 						<Svg_up svg="Leadership" className="section-1"/>
 						<div className="brain-text section-1">
 							<h2>Leadership</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam </p>
+							<p>Shared Vision.
+							Self Directed Teams.
+						Leaders as merely custodians of creative tension</p>
 						</div>
 
 					</div>
@@ -51,7 +57,10 @@ class Home extends React.Component{
 						<Svg_up svg="Compass" className="section-1"/>
 						<div className="brain-text section-1">
 							<h2>Core Values</h2>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam </p>
+							<p>Entertainment  using the power of imagination.
+								Undistorted  transmission of culture and objective truths.
+								No compromise on ethics and morality.
+								Prudent transparency at all levels.</p>
 						</div>
 
 					</div>
