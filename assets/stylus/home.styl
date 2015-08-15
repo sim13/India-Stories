@@ -101,7 +101,14 @@ hr
 		.text-wrapper
 			display inline-block
 			vertical-align middle
-			max-width 25rem
+			@media screen and (max-width 1800px)
+				max-width 30rem
+			@media screen and (max-width 1500px)
+				max-width 25rem
+			@media screen and (max-width 1300px)
+				max-width 18rem
+			@media screen and (max-width 1000px)
+				max-width 14rem
 			margin 3.125rem
 			margin-top 2.5rem
 			h3
@@ -118,7 +125,7 @@ hr
 				font-size 1.25rem
 
 section.bg-image-grid
-	height 21.875rem
+	height 28.125rem
 	article
 		vertical-align middle
 		display: inline-block

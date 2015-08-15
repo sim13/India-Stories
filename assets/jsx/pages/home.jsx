@@ -17,10 +17,28 @@ class Home extends React.Component{
 				<section className="about-us">
 				 	<h2> OUR STORY </h2>
 				 	<hr/>
-				 	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+				 	<p>
+				 	<br>India Stories Media & Entertainment Pvt. Ltd, is an integrated entertainment and communication
+company looking to encompass the entire span of content creation across Motion Pictures, Big
+Ticket fiction content for Television, Boutique Advertising Commercials , Public Service films and
+short form New Media Content
 
-					"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-					Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+It sets itself to be arguably the first true media house producing content in India for the world.</br>
+
+<br>India Stories also prides itself in launching new talent and high concept content . This comes
+from a sound understanding of content and appreciating the entire spectrum from creative to
+production and from distribution to targeted marketing.</br>
+
+<br>Beyond the depth and range of content, India Stories sees itself as an industry leader in operating
+in a strong corporate governance framework with best practices and financial transparency across
+the board.</br>
+
+The India Stories Foundation is being set up with an objective to lead and support initiatives
+that go above and beyond profit motive and use the resources of the organization, monetary
+and non-monetary to support all artists whose survival and nourishment ensure a culturally rich
+society , to provide wings to young minds to soar towards their dreams and to take care of our
+older generation to whom we owe our gratitude for bequeathing us the foundations of our lives
+and of our country</p>
 				</section>
 
 				<section className="our-philosophy">
