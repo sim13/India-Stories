@@ -1,6 +1,10 @@
  
 var React 				= require('react/addons'),
+	
 	Home 				= require('./pages/home.jsx'),
+	Leadership			= require('./pages/leadership.jsx'),
+	Projects			= require('./pages/projects.jsx'),
+	
 	Footer 				= require('./components/global/footer.jsx'),
 	Menu 				= require('./components/global/menu.jsx'),
 	TransitionGroup 	= React.addons.CSSTransitionGroup;
@@ -38,7 +42,9 @@ export class App extends React.Component {
 
 var routes = (
 	<Route name="index" handler={App} path="/" ignoreScrollBehavior>
-		<DefaultRoute handler={Home}/>
+		<DefaultRoute name="home" handler={Home}/>
+		<Route name="leadership" path="leadership" handler={Leadership}/>
+		<Route name="projects" path="projects" handler={Projects}/>
 	</Route>
 )
 
