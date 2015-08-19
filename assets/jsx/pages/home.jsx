@@ -18,27 +18,16 @@ class Home extends React.Component{
 				 	<h2> OUR STORY </h2>
 				 	<hr/>
 				 	<p>
-				 	<br>India Stories Media & Entertainment Pvt. Ltd, is an integrated entertainment and communication
-company looking to encompass the entire span of content creation across Motion Pictures, Big
-Ticket fiction content for Television, Boutique Advertising Commercials , Public Service films and
-short form New Media Content
-
-It sets itself to be arguably the first true media house producing content in India for the world.</br>
-
-<br>India Stories also prides itself in launching new talent and high concept content . This comes
-from a sound understanding of content and appreciating the entire spectrum from creative to
-production and from distribution to targeted marketing.</br>
-
-<br>Beyond the depth and range of content, India Stories sees itself as an industry leader in operating
-in a strong corporate governance framework with best practices and financial transparency across
-the board.</br>
-
-The India Stories Foundation is being set up with an objective to lead and support initiatives
-that go above and beyond profit motive and use the resources of the organization, monetary
-and non-monetary to support all artists whose survival and nourishment ensure a culturally rich
-society , to provide wings to young minds to soar towards their dreams and to take care of our
-older generation to whom we owe our gratitude for bequeathing us the foundations of our lives
-and of our country</p>
+				 		India Stories Media & Entertainment Pvt. Ltd, is an integrated entertainment and communication company looking to encompass the <em>entire span of content</em> creation across Motion Pictures, Big Ticket Television content, Boutique Advertising Commercials , Public Service films and short form New Media Content.
+						It sets itself to be arguably the first true media house producing content in India for the world.
+					</p>
+					<p>
+				 		India Stories also prides itself in launching <em>new talent</em> across acting, music and direction . This comes from a solid understanding of content and appreciating the entire spectrum from creative to production and from distribution to targeted marketing.
+				 		India Stories sees itself as an industry leader in operating in a strong corporate governance framework with best practices and <em>financial transparency</em> across the board.
+				 	</p>
+				 	<p>
+				 		It is also in the process of setting up the India Stories Foundation to lead and support initiatives that go above and <em>beyond profit motive</em> and use the resources of the organization, monetary and non-monetary initiatives across art, education and senior citizen care. We believe that art has a great role in ensuring a <em>culturally rich and sensitive society</em>.
+				 	</p>
 				</section>
 
 				<section className="our-philosophy">
@@ -92,11 +81,14 @@ and of our country</p>
 						<h2>MISSION</h2>
 						<p> To tell great stories and thereby humanize life.</p>
 					</article>
-					<article className="proposition">
-						<h2>VALUE PROPOSITION</h2>
-						<p>High credibility and access in the Industry.
-						Perfect match between creative vision  and business wisdom. Optimally designed product portfolio to balance risk and return. Veteran team of professional managers poised to capture the growth when the industry is seeing an inflexion point.</p>
-					</article>
+				</section>
+				<section className="wide proposition">
+					<h2>VALUE PROPOSITION</h2>
+					<p>High credibility and access in the Industry.</p>
+					<br/>
+					<p>Perfect match between creative vision  and business wisdom.</p>
+					<br/>
+					<p>Optimally designed product portfolio to balance risk and return.</p>
 				</section>
 			</div>
 		)
