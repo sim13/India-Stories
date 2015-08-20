@@ -13,7 +13,6 @@ class Home extends React.Component{
 				<section className="splash-wrapper">
 					<div className="splash-bg"></div>
 					<div className="logo"></div>
-					<h2>Stories that humanise life</h2>
 				</section>
 				<section className="about-us">
 				 	<h2> OUR STORY </h2>
@@ -27,7 +26,7 @@ class Home extends React.Component{
 				 		India Stories sees itself as an industry leader in operating in a strong corporate governance framework with best practices and <em>financial transparency</em> across the board.
 				 	</p>
 				 	<p>
-				 		It is also in the process of setting up the India Stories Foundation to lead and support initiatives that go above and <em>beyond profit motive</em> and use the resources of the organization, monetary and non-monetary initiatives across art, education and senior citizen care. We believe that art has a great role in ensuring a <em>culturally rich and sensitive society</em>.
+				 		India Stories is in the process of setting up the India Stories Foundation to lead and support initiatives that go above and <em>beyond profit motive</em> and use the resources of the organization, monetary and non-monetary initiatives across art, education and senior citizen care. India Stories believes that art has a great role in ensuring a <em>culturally rich and sensitive society</em>.
 				 	</p>
 				</section>
 

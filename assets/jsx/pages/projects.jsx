@@ -21,10 +21,12 @@ export class Projects extends React.Component{
 					<ul className="film-list hindi-list">
 						<li className="film-item">
 							<span className="film-language">HINDI</span>
-							<h3>Jatin Ravasia</h3>
+							<h3>Shashanka Ghosh</h3>
 							<p>
-								Associate to Dibakar Banerjee in Khosla ka Ghosla.
-								Over 2500 hrs of TV, Television commercials and Corporate films
+								Shashanka has been associated with the media world for over 18 years. He was one of the key players to define and add character to the emerging face of the entertainment TV in India, having launched MTV India and then Channel [V], where he worked as Creative Director and then as Dy. General Manager. He has won many international awards for his distinctive work.
+								<br/>
+								<br/>
+								Shashanka became famous with his cult films like Waisa Bhi Hota Hai and Quick Gun Murugun. His last release Khoobsurat starring Sonam Kapoor and Fawad Khan was a mainstream commercial success.
 							</p>
 						</li>
 						<li className="film-item">
@@ -43,38 +45,29 @@ export class Projects extends React.Component{
 						</li>
 						<li className="film-item">
 							<span className="film-language">HINDI</span>
-							<h3>Shashanka Ghosh</h3>
+							<h3>Glen - Ankush</h3>
 							<p>
-								Shashanka Ghosh has been associated with the media world for over 18 years. He was one of the key players to define and add character to the emerging face of the entertainment TV in India, having launched MTV India and then Channel [V], where he worked as Creative Director and then as Dy. General Manager. He has won many international awards for his distinctive work.
-								<br/>
-								<br/>
-								Shashanka became famous with his cult films like Waisa Bhi Hota Hai and Quick Gun Murugun. His last release Khoobsurat starring Sonam Kapoor and Fawad Khan was a mainstream commercial success.
+								The Director duo Glen - Ankush began their film careers assisting Mansoor khan and went on to direct films on their own. They also have under their belts over ten thousand hours of Television content including the mega series ‘Everest’ for Star Plus.
 							</p>
 						</li>
 						<li className="film-item">
 							<span className="film-language">HINDI</span>
-							<h3>Sanjay Puran Singh Chauhan</h3>
+							<h3>Jatin Ravasia</h3>
 							<p>
-								Sanjay Puran Singh Chauhan is most known for his award winning and internationally acclaimed film Lahore. After setting the international festival circuits ablaze he won the Indira Gandhi Award for Best First Film of a Director at the 2009 National Film Awards.Lahore also won National Film Award for Best Supporting Actor for the late Farooque Shaikh won .
-							</p>
-						</li>
-						<li className="film-item">
-							<span className="film-language">HINDI</span>
-							<h3>Directors: Glen - Ankush</h3>
-							<p>
-								The Director duo Glen Ankush began their film career as a Chief Assistant Director in films such as Joh Jeeta Wohi Sikander Starring Aamir Khan / Ayesha Julka / Pooja Bedi and Akele Hum Akele Tum starring Aamir Khan / Manisha Koirala.They have also created numerous iconic shows on Television including Hip Hip Hooray and “Woh”. They recently directed the mega series Everest for Star Plus and are currently directing a film produced by Ashutosh Gowarikar.
+								Associate to Dibakar Banerjee in Khosla ka Ghosla
+								<br/>
+								<br/>
+								Over 2500 hrs of TV, Television commercials and Corporate films
 							</p>
 						</li>
 						<li className="film-item">
 							<span className="film-language">HINDI</span>
 							<h3>Chinmay Purohit</h3>
 							<p>
-								Very strong theatre and television background as director. He also assisted the acclaimed Kundan Shah for many years.
-								<br/>
-								<br/>
-								This is his debut film.
+								Chinmay bagan his film career assisting the acclaimed Director Kundan Shah. He comes with a very strong theatre background and has directed many successful shows for leading Television networks across the country.
 							</p>
 						</li>
+				
 					</ul>
 				</section>
 				<Splash src="/img/regional.jpg">
@@ -94,34 +87,22 @@ export class Projects extends React.Component{
 						</li>
 						<li className="film-item">
 							<span className="film-language">Bengali Cinema</span>
+							<h3>Nitish Roy</h3>
+							<p>
+								Director of Bengali films like Ek Poshla Brishti, Tobu Mone Rekho and Mahakash Kando
+								<br/>
+								<br/>
+								Recipient of many awards including three National Awards and a Filmfare award for Best Art Director / Production Designer for feature films.
+							</p>
+						</li>
+						<li className="film-item">
+							<span className="film-language">Bengali Cinema</span>
 							<h3>Udayan Namboodiri</h3>
 							<p>
 								In a career spanning 28 years, international journalist Udayan Namboodiri is also the author of “Bangal’s night without end” and former Senior Editor of Daily Pioneer.
 								<br/>
 								<br/>
 								This is his debut feature film after his acclaimed documentary “The Girl who lost her name”.
-							</p>
-						</li>
-						<li className="film-item">
-							<span className="film-language">Bengali Cinema</span>
-							<h3>Nitish Roy</h3>
-							<p>
-								Director of Bengali films like Ek Poshla Bishti, Tobu Mone Rekho and Mahakaash Kando
-								<br/>
-								<br/>
-								3 times recipient of the National Award for Best Art Director / Production Designer for feature films
-								<br/>
-								<br/>
-								8 times recipient of Bengali Films Journalists Association (BFJA) Award for Best Art Director
-								<br/>
-								<br/>
-								Filmfare Award for Best Art Director / Production Designer
-								<br/>
-								<br/>
-								2 times recipient of Govt. Of West Bengal Award for Best Art Director
-								<br/>
-								<br/>
-								They have directed films like Icche, Muktodhara, Accident, Alik Sukh and Ramdhanu . Their latest release Bela Sheshe(2015) about the institution of marriage is already a runaway success commercially.
 							</p>
 						</li>
 						<li className="film-item">
@@ -168,7 +149,7 @@ export class Projects extends React.Component{
 							These films will be mentored by reputed and respected directors from Hindi Film Industry as well as from regional cinema.
 						</p>
 						<p>
-							In addition to featuring known as well as fresh talent, these films will carry exceptional production values, and scale that are usually absent from films traditionally made for television and raise the bar on films for TV.
+							In addition to featuring known as well as fresh talent, these films will carry exceptional production values, and scale that are usually absent from films traditionally made for television and thereby raising the bar of films for TV.
 						</p>
 					</article>
 				</section>
@@ -181,7 +162,7 @@ export class Projects extends React.Component{
 							A roster of Directors that span the entire range of specialization – from full length feature films to short duration commercials (and all in between!)
 						</p>
 						<p>
-							A very strong production infrastructure and skill sets that sets very high standards of execution skills and delivery timelines.
+							A very strong production infrastructure and skill sets that carry very high standards of execution skills and delivery timelines.
 						</p>
 						<p>
 							Over 200 years of combined experience across features, promos, ads etc.
@@ -194,10 +175,10 @@ export class Projects extends React.Component{
 				<section className="new-media info-section">
 					<article>
 						<p>
-							With the expected roll out of 4G, increased broadband penetration, personalized , media consumption, short video on demand will take a huge leap in the coming years.
+							With the expected roll out of 4G, increased broadband penetration, and personalized media consumption, short video on demand will take a huge leap in the coming years.
 						</p>
 						<p>
-							The New Media Content would be largely content created for consumption on cell phones. These would be short format content and would initially focus on Comedy but with the strategy of creating “personalities” who would build a community of fan-base around them. This would then progress to drama, romance and reality genres as the audiences
+							The New Media Content would be largely created for consumption on cell phones. These would be short format content and would initially focus on Comedy but with the strategy of creating “personalities” who would build a community of fan-base around them. This would then progress to drama, romance and reality genres as the audiences expand
 						</p>
 					</article>
 				</section>
@@ -210,7 +191,7 @@ export class Projects extends React.Component{
 							Films are an extremely significant means to raise crucial social concerns and to stimulate dialogue, and an involved and passionate public discourse around them.
 						</p>
 						<p>
-							As part of our advocacy initiatives, these would be films made with no profit motive with the wish to empower filmmakers and provide them opportunities to articulate their ideas and visions on issues like human rights, gender and sexuality, environment, conflict, diversity, and cultural pluralism and identity, among others
+							As part of our advocacy initiatives, these would be films made with no profit motive to empower filmmakers and provide them opportunities to articulate their ideas and visions on issues like human rights, gender and sexuality, environment, conflict, diversity, and cultural pluralism and identity, among others
 						</p>
 					</article>
 				</section>
