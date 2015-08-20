@@ -172,7 +172,7 @@ export class Projects extends React.Component{
 						</p>
 					</article>
 				</section>
-				<Splash src="/img/advert.jpg">
+				<Splash src="/img/filmads.jpg">
 					<em>ADVERTISING FILMS</em>
 				</Splash>
 				<section className="advertising-films info-section">
