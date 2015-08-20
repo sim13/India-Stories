@@ -14,14 +14,16 @@ export class Footer extends React.Component{
 					<TwitterLink src="http://google.com/"/>
 				</section>
 				<section className="contact-info-box">
-					<h3> INDIA STORIES PVT. LTD. </h3>
+					<h3> INDIA STORIES MEDIA & ENTERTAINMENT PVT. LTD. </h3>
 					<h4>
-						<span> A-123, Chowk Nagar </span>
-						<span> Mumbai - 220019 </span>
-						<span> +91-9955511100 </span>
+						<span> 706, Aston, Sundervan Complex </span>
+						<span> Lokhandwala Road, Andheri (W) </span>
+						<span> Mumbai - 400053 </span>
+						<span> India </span>
+						<span> +91 22 6166 8968 </span>
 					</h4>
 					<h5> 
-						contact@indiastories.com
+						contact@indiastories.co.in
 					</h5>
 
 				</section>
