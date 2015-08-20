@@ -1,5 +1,27 @@
 @require(_variables)
 first-breakpoint = 600px
+.back-to-top-icon
+	position fixed
+	// background-color #000
+	bottom 20px
+	right 20px
+	opacity 0.7
+	size = 60px
+	width size
+	height size
+	background-size 80% 80%
+	background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCIgd2lkdGg9IjUxMnB4IiBoZWlnaHQ9IjUxMnB4IiB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNTEyIDUxMiIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PHBvbHlnb24gaWQ9ImFycm93LTI1LWljb24iIHBvaW50cz0iMTQyLjMzMiwxMDQuODg2IDE5Ny40OCw1MCA0MDIuNSwyNTYgMTk3LjQ4LDQ2MiAxNDIuMzMyLDQwNy4xMTMgMjkyLjcyNywyNTYgIi8+PC9zdmc+');
+	background-position 50% 50%
+	background-repeat no-repeat
+	transform rotateZ(-90deg)
+	cursor pointer
+	background-color #FFF
+	border-radius 100px
+	transition 0.2s ease-out
+	&:hover
+		opacity 1
+
+	
 #footer
 	// margin-top 200px
 	// min-height 300px
