@@ -6,6 +6,8 @@ first-breakpoint = 600px
 	.leadership-splash-wrapper
 		position relative
 		height 43.75rem
+		@media (max-width first-breakpoint)
+			height 40rem
 		width 100%
 		overflow hidden
 		box-sizing border-box
@@ -21,7 +23,7 @@ first-breakpoint = 600px
 			background-repeat no-repeat
 			transform scale3D(-1,1,1)
 			@media (max-width first-breakpoint)
-				top 20px
+				top 40px
 		h1, h2
 			z-index 3
 			font-family font_serif
