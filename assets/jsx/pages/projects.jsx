@@ -23,7 +23,7 @@ export class Projects extends React.Component{
 							<span className="film-language">HINDI</span>
 							<h3>Jatin Ravasia</h3>
 							<p>
-								Associate to Dibakar in Khosla ka Ghosla.
+								Associate to Dibakar Banerjee in Khosla ka Ghosla.
 								Over 2500 hrs of TV, Television commercials and Corporate films
 							</p>
 						</li>
@@ -38,7 +38,7 @@ export class Projects extends React.Component{
 							<span className="film-language">HINDI</span>
 							<h3>Padmakumar</h3>
 							<p>
-								Former National Creative Head – Rediffussion. Prior to that hee has also worked with McCann Worldgroup Sri Lanka as Executive Creative Director, South East Asia, and ventured into scripting and directing commercials for brands in Singapore and Sri Lanka.
+								Former National Creative Director – Rediffussion. Prior to that hee has also worked with McCann Worldgroup Sri Lanka as Executive Creative Director, South East Asia, and ventured into scripting and directing commercials for brands in Singapore and Sri Lanka.
 							</p>
 						</li>
 						<li className="film-item">
@@ -60,7 +60,7 @@ export class Projects extends React.Component{
 						</li>
 						<li className="film-item">
 							<span className="film-language">HINDI</span>
-							<h3>Glen - Ankush</h3>
+							<h3>Directors: Glen - Ankush</h3>
 							<p>
 								The Director duo Glen Ankush began their film career as a Chief Assistant Director in films such as Joh Jeeta Wohi Sikander Starring Aamir Khan / Ayesha Julka / Pooja Bedi and Akele Hum Akele Tum starring Aamir Khan / Manisha Koirala.They have also created numerous iconic shows on Television including Hip Hip Hooray and “Woh”. They recently directed the mega series Everest for Star Plus and are currently directing a film produced by Ashutosh Gowarikar.
 							</p>
