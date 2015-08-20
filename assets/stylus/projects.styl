@@ -1,4 +1,6 @@
 @require(_variables)
+first-breakpoint = 600px
+
 .info-section
 	position relative
 	width 100%
@@ -8,13 +10,21 @@
 	overflow hidden
 	padding 2.5rem 12.5rem
 	box-sizing border-box
+	@media (max-width first-breakpoint)
+		padding 2.5rem 5rem
+	&.hindi, &.tv, &.advertising-films
+		background-image url(/img/pattern.png)
+	
 	article
 		text-align: center
 		color color_white
 		font-family font_sans_serif
 		font-size 1.4rem
+		@media (max-width first-breakpoint)
+			font-size 2.5rem
 	.film-list
 		list-style none
+		padding 0
 		li
 			position relative
 			text-align center
@@ -24,6 +34,8 @@
 			vertical-align top
 			margin 20px 10px
 			font-family font_sans_serif
+			@media (max-width first-breakpoint)
+				padding 5rem 5rem
 			.film-language
 				position absolute
 				top 0
@@ -32,14 +44,19 @@
 				font-weight 300
 				opacity 0.3
 				font-size 1.3rem
+				@media (max-width first-breakpoint)
+					font-size 2rem
 			h3
 				display block
 				margin 0 auto
 				text-align center
 				font-size 2rem
 				color color_bright_section
+				@media (max-width first-breakpoint)
+					font-size 3.2rem
 			p
 				font-family font_serif
 				max-width 600px
 				margin 20px auto
+				font-size 2.5rem
 				line-height 1.5

@@ -12,12 +12,13 @@ export class Leadership extends React.Component{
 			<section className="leadership">
 				<div className="leadership-splash-wrapper">
 					<div className="leadership-image"></div>
-					<h1> LEADERSHIP </h1>
+					<h1> LEADERSHIP STYLE </h1>
+					<h2> Shared Vision. Self Directed Teams</h2>
 					<hr/>
 				</div>
 				<article className="team-members">
 					<div className="member-1 member">
-						<h2>Trilok Malhotra</h2>
+						<h2> Trilok Malhotra</h2>
 						<p>An industry veteran having spent over <em>28 years</em> in the industry in
 						over 35 films. These films have grossed over <em>1500</em> crs of revenues.
 						His experience spans the entire life cycle of film production
@@ -36,13 +37,15 @@ export class Leadership extends React.Component{
 						crew.</p>
 					</div>
 					<div className="member-2 member">
-						<h2> K.R. Harish</h2>
+						<h2>K.R. Harish</h2>
 						<p>A start up specialist with experience of more than <em>20 years</em> in media industry spanning  Satellite Television, Satellite Radio, Music Record Label and Motion Pictures.
 							Past assignments included Dy.CFO of <em>Star TV</em>, Managing Director and CFO <em>Asia Pacific World Space</em>, Group CFO Data Access, Managing Director Phat Phish India Pvt Limited and Producer at <em>Lightforms and Pictures</em> Pvt Ltd <br></br><br></br>
 							Produced <em>Quick Gun Murugun</em>(presented by FoxStarStudios)  and
 							Frozen( which premiered in the Toronto film festival 2007) as Managing
 							Director <em>Phat Phish India</em> Private Limited and the film What the Fish !
-							that was presented by Viacom18 Studios.<br></br><br></br>Harish has a professional background of being a Chartered Accountant</p>
+							that was presented by Viacom18 Studios.<br></br><br></br>Harish has a professional background of being a Chartered Accountant
+							and Cost Accountant.
+						</p>
 					</div>
 				</article>
 			</section>

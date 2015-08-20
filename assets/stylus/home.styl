@@ -13,18 +13,27 @@
 	html
 		font-size 12px
 
+first-breakpoint = 600px
+
 .splash-wrapper
 	width 100%
 	height 40.5rem
 	position relative
 	background-color color_darkest_section
 	background-image url(/img/pattern_dark.png)
+	@media (max-width first-breakpoint)
+		height 45rem
 	.splash-bg
 		width 100%
 		height 100%
 		position absolute
 		background-image url('/img/splash-bg.jpg')	
 		background-size 100%
+		@media (max-width 1100px)
+			background-size 120%
+		@media (max-width first-breakpoint)
+			background-size 150%
+			
 		opacity 0.7
 	.logo
 		position relative
@@ -35,6 +44,9 @@
 		max-width 1000px
 		height 100%
 		background-image url('/img/splash.png')
+		@media (max-width first-breakpoint)
+			background-size 45%
+			background-image url('/img/logo-vertical.png')
 		margin 0px auto
 		background-size 90%
 		background-repeat no-repeat
@@ -44,11 +56,14 @@
 		text-transform uppercase
 		color color_white
 		font-size 1.475rem
-		letter-spacing 10px
+		letter-spacing 0.625rem
 		position relative
-		top -130px
+		bottom 6.25rem
 		text-align center
 		font-weight 800
+		padding 0 20px
+		@media (max-width first-breakpoint)
+			font-size 2rem
 		
 hr
 	max-width 300px
@@ -73,6 +88,8 @@ hr
 		color color_dark_section
 		letter-spacing 4px
 		margin-top 1.25rem
+		@media (max-width first-breakpoint)
+			font-size 3.4rem
 	p
 		margin 3.125rem auto
 		font-size 1.25rem
@@ -81,6 +98,10 @@ hr
 		color color_darkest_section
 		padding 0px 6.25rem
 		max-width 900px
+		@media (max-width first-breakpoint)
+			padding 2rem
+			margin 2rem auto
+			font-size 2.25rem
 		em
 			font-family font_serif
 			font-weight 800
@@ -88,12 +109,15 @@ hr
 .our-philosophy
 	position relative
 	width 100%
-	// height 1600px
-	background-color color_darkest_section
 	background-image url(/img/pattern_dark.png)
 	overflow hidden
 	padding 2.5rem 12.5rem
 	box-sizing border-box
+	text-align center
+	@media (max-width first-breakpoint)
+		padding 3.4rem 0rem
+	@media (max-width 1200px)
+		padding 3.4rem 8rem
 	hr
 		background-color #FFF
 		margin-bottom 6.25rem
@@ -104,11 +128,14 @@ hr
 		letter-spacing 4px
 		margin-top 1.25rem
 		text-align center
+		@media (max-width first-breakpoint)
+			font-size 3.2rem
 	article.mini-section
 		text-align: center
-		margin 0.625rem auto
-		min-width 50%
-		// min-width 500px
+		margin 1.625rem 0
+		max-width 50%
+		@media (max-width first-breakpoint)
+			max-width 100%
 		display: inline-block
 		vertical-align top
 		overflow hidden
@@ -116,19 +143,17 @@ hr
 			// display inline-block
 			vertical-align middle
 			svg
-				height 150px
+				height 9.375rem
+				width 9.375rem
+				@media (max-width first-breakpoint)
+					height 15rem
+					width 15rem
 				// width 150px
 		.text-wrapper
 			display inline-block
 			vertical-align middle
 			@media screen and (max-width 1800px)
 				max-width 30rem
-			@media screen and (max-width 1500px)
-				max-width 25rem
-			@media screen and (max-width 1300px)
-				max-width 18rem
-			@media screen and (max-width 1000px)
-				max-width 14rem
 			margin 3.125rem
 			margin-top 2.5rem
 			h3
@@ -138,14 +163,20 @@ hr
 				color color_bright_section
 				text-align center
 				margin 0 auto
+				@media (max-width first-breakpoint)
+					font-size 3.2rem
 			p
 				color #FFF !important
 				text-align center
 				font-family font_sans_serif
 				font-size 1.25rem
+				@media (max-width first-breakpoint)
+					font-size 2.5rem
 
 section.bg-image-grid
 	height 20.125rem
+	@media (max-width first-breakpoint)
+		height auto
 	article
 		vertical-align middle
 		display: inline-block
@@ -155,6 +186,9 @@ section.bg-image-grid
 		box-sizing border-box
 		text-align center
 		height 100%
+		@media (max-width first-breakpoint)
+			width 100%
+			padding 6rem 3.125rem
 		&.vision
 			background-image url(/img/1.jpg)
 			background-size 100%
@@ -167,16 +201,22 @@ section.bg-image-grid
 	h2
 		font-family font_serif
 		font-size 2rem
+		@media (max-width first-breakpoint)
+			font-size 3.1rem
 	p
 		font-family font_sans_serif
 		font-size 1.3rem
 		line-height 1.5
+		@media (max-width first-breakpoint)
+			font-size 2.5rem
 		
 section.proposition
 	color white
 	text-align: center
 	width 100%
 	padding 3rem
+	@media (max-width first-breakpoint)
+		padding 6rem 3rem
 	box-sizing border-box
 	background-image url(/img/3.jpg)
 	background-size 100%
@@ -184,13 +224,18 @@ section.proposition
 	h2
 		font-family font_serif
 		font-size 2rem
+		@media (max-width first-breakpoint)
+			font-size 3.1rem
+		
 	p
-		margin 10px auto
-		padding 5px
+		margin 0px auto
+		padding 2px
 		// border-bottom 1px solid color_bright_section
 		font-family font_sans_serif
 		font-size 1.3rem
 		line-height 1.5
 		max-width 1000px
 		display inline-block
+		@media (max-width first-breakpoint)
+			font-size 2.5rem
 	

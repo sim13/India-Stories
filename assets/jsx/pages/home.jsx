@@ -58,7 +58,6 @@ class Home extends React.Component{
 						<div className="text-wrapper">
 							<h3>Personal Mastery</h3>
 							<p>Core Competence. 
-								Creative tension – aspiring to reach ideals. 
 								Openness and adaptability</p>
 						</div>
 					</article>

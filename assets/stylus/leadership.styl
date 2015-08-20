@@ -1,12 +1,15 @@
 @require(_variables)
+first-breakpoint = 600px
+
 .leadership
 	
 	.leadership-splash-wrapper
 		position relative
-		height 700px
+		height 43.75rem
 		width 100%
 		overflow hidden
 		box-sizing border-box
+		
 		.leadership-image
 			position absolute
 			width 100%
@@ -16,7 +19,8 @@
 			background-image url('/img/india-stories.jpg')
 			background-size 100%
 			background-repeat no-repeat
-		h1
+			transform scale3D(-1,1,1)
+		h1, h2
 			z-index 3
 			font-family font_serif
 			color color_bright_section
@@ -26,14 +30,26 @@
 			letter-spacing 6px
 			position absolute
 			text-align center
-			top 180px
+			top 11.25rem
 			width 100%
+			text-shadow 0px 0px 30px 10px #000
+			@media (max-width first-breakpoint)
+				top 10.2rem
+				font-size 3.4rem
+		h2
+			font-family font_sans_serif
+			top 18.75rem
+			font-size 2rem
+			letter-spacing 0px
 		hr
 			position relative
 			z-index 90
 			top 270px
 			opacity 0.3
 			background-color color_bright_section
+			@media (max-width first-breakpoint)
+				top 160px
+				font-size 3.4rem
 	.team-members
 		position relative
 		width 100%
@@ -42,20 +58,30 @@
 		background-size 100%
 		.member
 			display inline-block
-			width 40%
-			margin-left 120px
-			margin-top 50px
+			max-width 31.25rem
+			@media (max-width 1200px)
+				max-width 20.25rem
+			@media (max-width first-breakpoint)
+				max-width 35.25rem
+			// min-width 30%
+			margin-left 7.5rem
+			margin-top 3.125rem
 			vertical-align top
 			h2
-				font-size 2.1875rem !important
+				font-size 2.1875rem
 				color color_bright_section !important
 				font-family font_serif !important
-				font-weight 300 
+				font-weight 300
+				@media (max-width first-breakpoint)
+					font-size 3.2rem
 			p
 				font-family font_sans_serif !important
 				color color_white !important
 				font-size 1.25rem
-				padding-bottom 40px
+				padding-bottom 2.5rem
+				line-height 1.5
+				@media (max-width first-breakpoint)
+					font-size 2.5rem
 			em
 				color color_bright_section !important
 				font-weight 700 !important
