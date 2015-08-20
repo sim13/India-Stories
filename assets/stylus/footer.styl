@@ -1,4 +1,5 @@
 @require(_variables)
+first-breakpoint = 600px
 #footer
 	// margin-top 200px
 	// min-height 300px
@@ -16,8 +17,10 @@
 		opacity 0.1
 	
 	.contact-info-box
-		padding 20px 100px
-		padding-bottom 40px
+		padding 1.25rem 6.25rem
+		padding-bottom 2.5rem
+		@media (max-width first-breakpoint)
+			text-align center
 		h3
 			font-family font_serif
 			font-weight 100
@@ -58,6 +61,8 @@
 		font-weight 300
 		text-align: center
 		letter-spacing 1px
+		// max-width 1000px
+		margin 0 auto
 		// background-color rgba(1,1,1,0.6)
 		.bold 
 			font-weight 700
