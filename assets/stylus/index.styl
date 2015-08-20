@@ -16,7 +16,7 @@
 @keyframes transition-in
 	0%
 		opacity 0
-		transform scale3d(1.02,1.02,1) translate3d(0,-20px,0);
+		transform scale3d(1.02,1.02,1) translate3d(0,5px,0);
 	100%
 		opacity 1
 		transform scale3d(1,1,1) translate3d(0,0px,0);
@@ -27,7 +27,7 @@
 		transform scale3d(1,1,1) translate3d(0,0px,0);
 	100%
 		opacity 0
-		transform scale3d(1.02,1.02,1) translate3d(0,-20px,0);
+		transform scale3d(1.02,1.02,1) translate3d(0,5px,0);
 
 .page-transition-enter
 	opacity 0
@@ -50,15 +50,15 @@ html
 	font-size 16px
 
 body
+	background-color color_darkest_section
+	background-image url(/img/pattern_dark.png)
 	min-height 100%
 	margin 0px
-	background-color color_bg 
 	position relative
 h1
 	color color_bright
 h2 	
-	color color_button
- 
+	color color_bright_section
 h3
 	color color_bglite
 h4
