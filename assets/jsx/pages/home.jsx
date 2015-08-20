@@ -13,6 +13,7 @@ class Home extends React.Component{
 				<section className="splash-wrapper">
 					<div className="splash-bg"></div>
 					<div className="logo"></div>
+					<h2>Stories that humanise life</h2>
 				</section>
 				<section className="about-us">
 				 	<h2> OUR STORY </h2>

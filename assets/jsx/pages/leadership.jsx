@@ -19,7 +19,7 @@ export class Leadership extends React.Component{
 						<div className="member-1 member">
 							<h2>K.R. Harish</h2>
 							<p>A start up specialist with experience of more than 20 years in media industry spanning  Satellite Television, Satellite Radio, Music Record Label and Motion Pictures.
-Past assignments included Dy.CFO of Star TV, Managing Director and CFO Asia Pacific World Space, Group CFO Data Access, Managing Director Phat Phish India P Limited and Producer at Lightforms and Pictures Pvt Ltd</p>
+Past assignments included Dy.CFO of Star TV, Managing Director and CFO Asia Pacific World Space, Group CFO Data Access, Managing Director Phat Phish India Pvt Limited and Producer at Lightforms and Pictures Pvt Ltd</p>
 						</div>
 						<div className="member-2 member">
 							<h2> Trilok Malhotra</h2>
