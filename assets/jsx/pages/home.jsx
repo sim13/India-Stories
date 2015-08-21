@@ -56,7 +56,7 @@ class Home extends React.Component{
 						<div className="text-wrapper">
 							<h3>Personal Mastery</h3>
 							<p>Core Competence. 
-								Openness and adaptability</p>
+								Openness and adaptability.</p>
 						</div>
 					</article>
 					<article className="mini-section">
@@ -65,7 +65,7 @@ class Home extends React.Component{
 							<h3>Leadership</h3>
 							<p>Shared Vision.
 								Self Directed Teams.
-								Leaders as merely custodians of creative tension</p>
+								Leaders as merely custodians of creative tension.</p>
 						</div>
 					</article>
 				</section>

@@ -26,21 +26,21 @@ export class Projects extends React.Component{
 								Shashanka has been associated with the media world for over 18 years. He was one of the key players to define and add character to the emerging face of the entertainment TV in India, having launched MTV India and then Channel [V], where he worked as Creative Director and then as Dy. General Manager. He has won many international awards for his distinctive work.
 								<br/>
 								<br/>
-								Shashanka became famous with his cult films like Waisa Bhi Hota Hai and Quick Gun Murugun. His last release Khoobsurat starring Sonam Kapoor and Fawad Khan was a mainstream commercial success.
+								Shashanka became famous with his cult films like 'Waisa Bhi Hota Hai' and 'Quick Gun Murugun'. His last release 'Khoobsurat' starring Sonam Kapoor and Fawad Khan was a mainstream commercial success.
 							</p>
 						</li>
 						<li className="film-item">
 							<span className="film-language">HINDI</span>
 							<h3>Sagar Ballary</h3>
 							<p>
-								An alumnus in Direction & Screenplay Writing from the Satyajit Ray Film and Television Institute Sagar made Bheja Fry which went on to be a cult success as well as a commercial blockbuster.
+								An alumnus in Direction & Screenplay Writing from the Satyajit Ray Film and Television Institute. Sagar made 'Bheja Fry' which went on to be a cult success as well as a commercial blockbuster.
 							</p>
 						</li>
 						<li className="film-item">
 							<span className="film-language">HINDI</span>
 							<h3>Padmakumar</h3>
 							<p>
-								Former National Creative Director – Rediffussion. Prior to that hee has also worked with McCann Worldgroup Sri Lanka as Executive Creative Director, South East Asia, and ventured into scripting and directing commercials for brands in Singapore and Sri Lanka.
+								Former National Creative Director – Rediffussion. Prior to that he has also worked with McCann Worldgroup Sri Lanka as Executive Creative Director, South East Asia, and ventured into scripting and directing commercials for brands in Singapore and Sri Lanka.
 							</p>
 						</li>
 						<li className="film-item">
@@ -54,7 +54,7 @@ export class Projects extends React.Component{
 							<span className="film-language">HINDI</span>
 							<h3>Jatin Ravasia</h3>
 							<p>
-								Associate to Dibakar Banerjee in Khosla ka Ghosla
+								Associate to Dibakar Banerjee in 'Khosla ka Ghosla'
 								<br/>
 								<br/>
 								Over 2500 hrs of TV, Television commercials and Corporate films
@@ -77,19 +77,19 @@ export class Projects extends React.Component{
 					<ul className="film-list hindi-list">
 						<li className="film-item">
 							<span className="film-language">Bengali Cinema</span>
-							<h3>Shiba Prasad Mukherjee and Nandita Roy</h3>
+							<h3>Shibo Prasad Mukherjee and Nandita Roy</h3>
 							<p>
-								They are amongst the few director duos in the history of Bengali cinema to have achieved success both critically and commercially .
+								They are amongst the few director duos in the history of Bengali cinema to have achieved success both critically and commercially.
 								<br/>
 								<br/>
-								They have directed films like Icche, Muktodhara, Accident, Alik Sukh and Ramdhanu . Their latest release Bela Sheshe(2015) about the institution of marriage is already a runaway success commercially.
+								They have directed films like 'Icche', 'Muktodhara', 'Accident', 'Alik Sukh' and 'Ramdhanu' . Their latest release 'Bela Seshe'(2015) about the institution of marriage is already a runaway success commercially.
 							</p>
 						</li>
 						<li className="film-item">
 							<span className="film-language">Bengali Cinema</span>
 							<h3>Nitish Roy</h3>
 							<p>
-								Director of Bengali films like Ek Poshla Brishti, Tobu Mone Rekho and Mahakash Kando
+								Director of Bengali films like 'Ek Poshla Brishti', 'Tobu Mone Rekho' and 'Mahakash Kando'
 								<br/>
 								<br/>
 								Recipient of many awards including three National Awards and a Filmfare award for Best Art Director / Production Designer for feature films.
@@ -97,26 +97,27 @@ export class Projects extends React.Component{
 						</li>
 						<li className="film-item">
 							<span className="film-language">Bengali Cinema</span>
-							<h3>Udayan Namboodiri</h3>
+							<h3>Udayan Namboodiry</h3>
 							<p>
-								In a career spanning 28 years, international journalist Udayan Namboodiri is also the author of “Bangal’s night without end” and former Senior Editor of Daily Pioneer.
-								<br/>
-								<br/>
-								This is his debut feature film after his acclaimed documentary “The Girl who lost her name”.
+								In a career spanning 28 years with major national and international media
+
+									houses, Udayan Namboodiry is also the author of ‘Bengal’s night without
+
+									end’. He is also the director of the acclaimed documentary ‘ The girl who lost her name.’ 
 							</p>
 						</li>
 						<li className="film-item">
 							<span className="film-language">Marathi</span>
 							<h3>Jatin Wagle</h3>
 							<p>
-								Jatin is from the new crop of Directors who are making waves in the Marathi film industry with their fresh subjects and treatment. Jatin’s films include Chakwa, and Ek Marathi Manoos. He has won numerous awards and nominations including 2 state awards. His next Marathi film with Mahesh Manjrekar is slated for release by December 2015.
+								Jatin is from the new crop of Directors who are making waves in the Marathi film industry with their fresh subjects and treatment. Jatin’s films include Chakwa, and Ek Marathi Manoos. He has won numerous awards and nominations including 2 state awards. His next Marathi film ‘Bandh Nylon Che’ with Mahesh Manjrekar  is slated for release by December 2015.
 							</p>
 						</li>
 						<li className="film-item">
 							<span className="film-language">Assamese</span>
 							<h3>Bidyut Kotoky</h3>
 							<p>
-								Bidyut’s debut Asamese film Bhraimoman Theatre won him the Special Jury Award in the 53rd National Awards. His next feature Ekhon Nedekha Nodir Xhipare (“As the River Flows”) won many international awards including the Audience Choice Award at the North Carolina International South Asian Film Festival (NCISAFF).
+								Bidyut’s debut Asamese film 'Bhraimoman Theatre' won him the Special Jury Award in the 53rd National Awards.
 							</p>
 						</li>
 					</ul>
@@ -146,7 +147,7 @@ export class Projects extends React.Component{
 							The Company has also finalized its plan for rolling out a series of films specifically for television audiences.
 						</p>
 						<p>
-							These films will be mentored by reputed and respected directors from Hindi Film Industry as well as from regional cinema.
+							These films will be mentored by reputed and respected directors from Hindi Film Industry as well as from Regional cinema.
 						</p>
 						<p>
 							In addition to featuring known as well as fresh talent, these films will carry exceptional production values, and scale that are usually absent from films traditionally made for television and thereby raising the bar of films for TV.
@@ -178,7 +179,7 @@ export class Projects extends React.Component{
 							With the expected roll out of 4G, increased broadband penetration, and personalized media consumption, short video on demand will take a huge leap in the coming years.
 						</p>
 						<p>
-							The New Media Content would be largely created for consumption on cell phones. These would be short format content and would initially focus on Comedy but with the strategy of creating “personalities” who would build a community of fan-base around them. This would then progress to drama, romance and reality genres as the audiences expand
+							The New Media Content would be largely created for consumption on cell phones. These would be short format content and would initially focus on Comedy but with the strategy of creating “personalities” who would build a community of fan-base around them. This would then progress to drama, romance and reality genres as the audiences expand.
 						</p>
 					</article>
 				</section>
@@ -191,7 +192,7 @@ export class Projects extends React.Component{
 							Films are an extremely significant means to raise crucial social concerns and to stimulate dialogue, and an involved and passionate public discourse around them.
 						</p>
 						<p>
-							As part of our advocacy initiatives, these would be films made with no profit motive to empower filmmakers and provide them opportunities to articulate their ideas and visions on issues like human rights, gender and sexuality, environment, conflict, diversity, and cultural pluralism and identity, among others
+							As part of our advocacy initiatives, these would be films made with no profit motive to empower filmmakers and provide them opportunities to articulate their ideas and visions on issues like human rights, gender and sexuality, environment, conflict, diversity, and cultural pluralism and identity, among others.
 						</p>
 					</article>
 				</section>
