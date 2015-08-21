@@ -77,7 +77,7 @@ class Home extends React.Component{
 					</article>
 					<article className="mission">
 						<h2>MISSION</h2>
-						<p> To tell great stories and thereby humanize life.</p>
+						<p> To tell great stories and thereby humanise life.</p>
 					</article>
 				</section>
 				<section className="wide proposition">

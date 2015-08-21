@@ -22,7 +22,7 @@ export class Footer extends React.Component{
 						<span> Lokhandwala Road, Andheri (W) </span>
 						<span> Mumbai - 400053 </span>
 						<span> India </span>
-						<span> +91 22 6166 8968 </span>
+						<span> +91 22 6166 8969 </span>
 					</h4>
 					<h5> 
 						info@indiastories.co.in
