@@ -29,7 +29,7 @@ export class Footer extends React.Component{
 					</h5>
 
 				</section>
-				<Copyright name="INDIA STORIES INDIA PVT. LTD."/>
+				<Copyright name="INDIA STORIES MEDIA & ENTERTAINMENT PVT. LTD."/>
 			</footer>
 		)
 	}

@@ -54,10 +54,8 @@ export class Projects extends React.Component{
 							<span className="film-language">HINDI</span>
 							<h3>Jatin Ravasia</h3>
 							<p>
-								Associate to Dibakar Banerjee in 'Khosla ka Ghosla'
-								<br/>
-								<br/>
-								Over 2500 hrs of TV, Television commercials and Corporate films
+								Associate to Dibakar Banerjee in 'Khosla ka Ghosla'.
+								Over 2500 hrs of TV, Television commercials and Corporate films.
 							</p>
 						</li>
 						<li className="film-item">
@@ -76,7 +74,7 @@ export class Projects extends React.Component{
 				<section className="regional info-section">
 					<ul className="film-list hindi-list">
 						<li className="film-item">
-							<span className="film-language">Bengali Cinema</span>
+							<span className="film-language">BENGALI</span>
 							<h3>Shibo Prosad Mukherjee and Nandita Roy</h3>
 							<p>
 								They are amongst the few director duos in the history of Bengali cinema to have achieved success both critically and commercially.
@@ -86,7 +84,7 @@ export class Projects extends React.Component{
 							</p>
 						</li>
 						<li className="film-item">
-							<span className="film-language">Bengali Cinema</span>
+							<span className="film-language">BENGALI</span>
 							<h3>Nitish Roy</h3>
 							<p>
 								Director of Bengali films like 'Ek Poshla Brishti', 'Tobu Mone Rekho' and 'Mahakash Kando'.
@@ -96,7 +94,7 @@ export class Projects extends React.Component{
 							</p>
 						</li>
 						<li className="film-item">
-							<span className="film-language">Bengali Cinema</span>
+							<span className="film-language">BENGALI</span>
 							<h3>Udayan Namboodiry</h3>
 							<p>
 								In a career spanning 28 years with major national and international media
@@ -107,14 +105,14 @@ export class Projects extends React.Component{
 							</p>
 						</li>
 						<li className="film-item">
-							<span className="film-language">Marathi</span>
+							<span className="film-language">MARATHI</span>
 							<h3>Jatin Wagle</h3>
 							<p>
 								Jatin is from the new crop of Directors who are making waves in the Marathi film industry with their fresh subjects and treatment. Jatin’s films include 'Chakwa', and 'Ek Marathi Manoos'. He has won numerous awards and nominations including 2 state awards. His next Marathi film ‘Bandh Nylon Che’ with Mahesh Manjrekar  is slated for release by December 2015.
 							</p>
 						</li>
 						<li className="film-item">
-							<span className="film-language">Assamese</span>
+							<span className="film-language">ASSAMESE</span>
 							<h3>Bidyut Kotoky</h3>
 							<p>
 								Bidyut’s debut Asamese film 'Bhraimoman Theatre' won him the Special Jury Award in the 53rd National Awards.His next feature ‘Ekhon
