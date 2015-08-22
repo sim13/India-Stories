@@ -24,6 +24,7 @@ export class Footer extends React.Component{
 						<span> India </span>
 						<span> +91 22 6166 8969 </span>
 					</h4>
+					<h3> Contact us:</h3>
 					<h5> 
 						info@indiastories.co.in
 					</h5>

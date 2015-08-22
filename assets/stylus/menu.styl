@@ -13,20 +13,25 @@
 		padding 0
 		padding-left 2rem
 		.menu-item
-			font-family font_serif
-			color #000
+			font-family font_sans_serif
+			color color_bright_section
+			opacity 0.8
 			font-size 1.25rem
+			cursor pointer
+			font-weight 700
+			display inline-block
 			@media (max-width 600px)
 				font-size 1.8rem !important
 			margin 0.625rem 1.25rem
-			display inline-block
 			padding-bottom 5px
-			border-bottom 1px dashed color_bright_section
 			cursor pointer
-			opacity 0.3
+			font-weight 700
+			
+			// opacity 0.3
 			transition 0.2s ease-out
 			&:hover
 				opacity 1
+				transform scale(1.2, 1.2)
 			&.home
 				font-family font_sans_serif
 				font-weight 700
