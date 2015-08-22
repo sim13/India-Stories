@@ -62,7 +62,7 @@ export class Projects extends React.Component{
 							<span className="film-language">HINDI</span>
 							<h3>Chinmay Purohit</h3>
 							<p>
-								Chinmay bagan his film career assisting the acclaimed Director Kundan Shah. He comes with a very strong theatre background and has directed many successful shows for leading Television networks across the country.
+								Chinmay began his film career assisting the acclaimed Director Kundan Shah. He comes with a very strong theatre background and has directed many successful shows for leading Television networks across the country.
 							</p>
 						</li>
 				
