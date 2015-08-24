@@ -18,7 +18,7 @@ class Home extends React.Component{
 				 	<hr/>
 				 	<p>
 				 		India Stories Media & Entertainment Pvt. Ltd, is an integrated entertainment and communication company looking to encompass the <em>entire span of content</em> creation across Motion Pictures, Big Ticket Television content, Boutique Advertising Commercials , Public Service films and short form New Media Content.
-						It prides itself  to be arguably the first true media house focused on  Stories rooted and originating from India, for the rest of the world world. Further, as its internal mandate, India Stories will only make content that the <em>entire</em> family can watch together. 
+						It prides itself  to be arguably the first true media house focused on  Stories rooted and originating from India, for the rest of the world. Additionally, as its internal mandate, India Stories will only make content that the <em>entire</em> family can watch together. 
 					</p>
 					<p>
 				 		India Stories also prides itself in launching <em>new talent</em> across acting, music and direction . This comes from a solid understanding of content and appreciating the entire spectrum from creative to production and from distribution to targeted marketing.
